@@ -1,0 +1,513 @@
+Recurso requisitado por VM: 0.02
+Quantidade de máquinas físicas: 10
+Capacidade de CPU: 0.2
+
+Capacidade de memória: 0.2
+
+Algoritmo executado: First Fit
+
+Fragmentação de CPU: 0.92626
+
+Fragmentação de memória: 0.92626
+
+Quantidade de requisições 2461
+
+Quantidade de VMs alocadas: 10
+
+Quantidade de VMs rejeitadas: 2451
+
+-----------------------------------------------------------------------------
+Recurso requisitado por VM: 0.02
+Quantidade de máquinas físicas: 10
+Capacidade de CPU: 0.55
+
+Capacidade de memória: 0.55
+
+Algoritmo executado: First Fit
+
+Fragmentação de CPU: 2.4420502
+
+Fragmentação de memória: 2.4420502
+
+Quantidade de requisições 2461
+
+Quantidade de VMs alocadas: 30
+
+Quantidade de VMs rejeitadas: 2431
+
+-----------------------------------------------------------------------------
+Recurso requisitado por VM: 0.02
+Quantidade de máquinas físicas: 10
+Capacidade de CPU: 1.0
+
+Capacidade de memória: 1.0
+
+Algoritmo executado: First Fit
+
+Fragmentação de CPU: 4.0661497
+
+Fragmentação de memória: 4.0661497
+
+Quantidade de requisições 2461
+
+Quantidade de VMs alocadas: 56
+
+Quantidade de VMs rejeitadas: 2405
+
+-----------------------------------------------------------------------------
+Recurso requisitado por VM: 0.1
+Quantidade de máquinas físicas: 10
+Capacidade de CPU: 0.2
+
+Capacidade de memória: 0.2
+
+Algoritmo executado: First Fit
+
+Fragmentação de CPU: 0.92626
+
+Fragmentação de memória: 0.92626
+
+Quantidade de requisições 2461
+
+Quantidade de VMs alocadas: 10
+
+Quantidade de VMs rejeitadas: 2451
+
+-----------------------------------------------------------------------------
+Recurso requisitado por VM: 0.1
+Quantidade de máquinas físicas: 10
+Capacidade de CPU: 0.55
+
+Capacidade de memória: 0.55
+
+Algoritmo executado: First Fit
+
+Fragmentação de CPU: 2.4420502
+
+Fragmentação de memória: 2.4420502
+
+Quantidade de requisições 2461
+
+Quantidade de VMs alocadas: 30
+
+Quantidade de VMs rejeitadas: 2431
+
+-----------------------------------------------------------------------------
+Recurso requisitado por VM: 0.1
+Quantidade de máquinas físicas: 10
+Capacidade de CPU: 1.0
+
+Capacidade de memória: 1.0
+
+Algoritmo executado: First Fit
+
+Fragmentação de CPU: 4.0661497
+
+Fragmentação de memória: 4.0661497
+
+Quantidade de requisições 2461
+
+Quantidade de VMs alocadas: 56
+
+Quantidade de VMs rejeitadas: 2405
+
+-----------------------------------------------------------------------------
+Recurso requisitado por VM: 0.4
+Quantidade de máquinas físicas: 10
+Capacidade de CPU: 0.2
+
+Capacidade de memória: 0.2
+
+Algoritmo executado: First Fit
+
+Fragmentação de CPU: 0.92626
+
+Fragmentação de memória: 0.92626
+
+Quantidade de requisições 2461
+
+Quantidade de VMs alocadas: 10
+
+Quantidade de VMs rejeitadas: 2451
+
+-----------------------------------------------------------------------------
+Recurso requisitado por VM: 0.4
+Quantidade de máquinas físicas: 10
+Capacidade de CPU: 0.55
+
+Capacidade de memória: 0.55
+
+Algoritmo executado: First Fit
+
+Fragmentação de CPU: 2.4420502
+
+Fragmentação de memória: 2.4420502
+
+Quantidade de requisições 2461
+
+Quantidade de VMs alocadas: 30
+
+Quantidade de VMs rejeitadas: 2431
+
+-----------------------------------------------------------------------------
+Recurso requisitado por VM: 0.4
+Quantidade de máquinas físicas: 10
+Capacidade de CPU: 1.0
+
+Capacidade de memória: 1.0
+
+Algoritmo executado: First Fit
+
+Fragmentação de CPU: 4.0661497
+
+Fragmentação de memória: 4.0661497
+
+Quantidade de requisições 2461
+
+Quantidade de VMs alocadas: 56
+
+Quantidade de VMs rejeitadas: 2405
+
+-----------------------------------------------------------------------------
+Recurso requisitado por VM: 0.02
+Quantidade de máquinas físicas: 10
+Capacidade de CPU: 0.2
+
+Capacidade de memória: 0.2
+
+Algoritmo executado: Worst Fit
+
+Fragmentação de CPU: 0.92626
+
+Fragmentação de memória: 0.92626
+
+Quantidade de requisições 2461
+
+Quantidade de VMs alocadas: 10
+
+Quantidade de VMs rejeitadas: 2451
+
+-----------------------------------------------------------------------------
+Recurso requisitado por VM: 0.02
+Quantidade de máquinas físicas: 10
+Capacidade de CPU: 0.55
+
+Capacidade de memória: 0.55
+
+Algoritmo executado: Worst Fit
+
+Fragmentação de CPU: 2.15611
+
+Fragmentação de memória: 2.15611
+
+Quantidade de requisições 2461
+
+Quantidade de VMs alocadas: 33
+
+Quantidade de VMs rejeitadas: 2428
+
+-----------------------------------------------------------------------------
+Recurso requisitado por VM: 0.02
+Quantidade de máquinas físicas: 10
+Capacidade de CPU: 1.0
+
+Capacidade de memória: 1.0
+
+Algoritmo executado: Worst Fit
+
+Fragmentação de CPU: 4.14893
+
+Fragmentação de memória: 4.14893
+
+Quantidade de requisições 2461
+
+Quantidade de VMs alocadas: 56
+
+Quantidade de VMs rejeitadas: 2405
+
+-----------------------------------------------------------------------------
+Recurso requisitado por VM: 0.1
+Quantidade de máquinas físicas: 10
+Capacidade de CPU: 0.2
+
+Capacidade de memória: 0.2
+
+Algoritmo executado: Worst Fit
+
+Fragmentação de CPU: 0.92626
+
+Fragmentação de memória: 0.92626
+
+Quantidade de requisições 2461
+
+Quantidade de VMs alocadas: 10
+
+Quantidade de VMs rejeitadas: 2451
+
+-----------------------------------------------------------------------------
+Recurso requisitado por VM: 0.1
+Quantidade de máquinas físicas: 10
+Capacidade de CPU: 0.55
+
+Capacidade de memória: 0.55
+
+Algoritmo executado: Worst Fit
+
+Fragmentação de CPU: 2.15611
+
+Fragmentação de memória: 2.15611
+
+Quantidade de requisições 2461
+
+Quantidade de VMs alocadas: 33
+
+Quantidade de VMs rejeitadas: 2428
+
+-----------------------------------------------------------------------------
+Recurso requisitado por VM: 0.1
+Quantidade de máquinas físicas: 10
+Capacidade de CPU: 1.0
+
+Capacidade de memória: 1.0
+
+Algoritmo executado: Worst Fit
+
+Fragmentação de CPU: 4.14893
+
+Fragmentação de memória: 4.14893
+
+Quantidade de requisições 2461
+
+Quantidade de VMs alocadas: 56
+
+Quantidade de VMs rejeitadas: 2405
+
+-----------------------------------------------------------------------------
+Recurso requisitado por VM: 0.4
+Quantidade de máquinas físicas: 10
+Capacidade de CPU: 0.2
+
+Capacidade de memória: 0.2
+
+Algoritmo executado: Worst Fit
+
+Fragmentação de CPU: 0.92626
+
+Fragmentação de memória: 0.92626
+
+Quantidade de requisições 2461
+
+Quantidade de VMs alocadas: 10
+
+Quantidade de VMs rejeitadas: 2451
+
+-----------------------------------------------------------------------------
+Recurso requisitado por VM: 0.4
+Quantidade de máquinas físicas: 10
+Capacidade de CPU: 0.55
+
+Capacidade de memória: 0.55
+
+Algoritmo executado: Worst Fit
+
+Fragmentação de CPU: 2.15611
+
+Fragmentação de memória: 2.15611
+
+Quantidade de requisições 2461
+
+Quantidade de VMs alocadas: 33
+
+Quantidade de VMs rejeitadas: 2428
+
+-----------------------------------------------------------------------------
+Recurso requisitado por VM: 0.4
+Quantidade de máquinas físicas: 10
+Capacidade de CPU: 1.0
+
+Capacidade de memória: 1.0
+
+Algoritmo executado: Worst Fit
+
+Fragmentação de CPU: 4.14893
+
+Fragmentação de memória: 4.14893
+
+Quantidade de requisições 2461
+
+Quantidade de VMs alocadas: 56
+
+Quantidade de VMs rejeitadas: 2405
+
+-----------------------------------------------------------------------------
+Recurso requisitado por VM: 0.02
+Quantidade de máquinas físicas: 10
+Capacidade de CPU: 0.2
+
+Capacidade de memória: 0.2
+
+Algoritmo executado: Best Fit
+
+Fragmentação de CPU: 0.92626
+
+Fragmentação de memória: 0.92626
+
+Quantidade de requisições 2461
+
+Quantidade de VMs alocadas: 10
+
+Quantidade de VMs rejeitadas: 2451
+
+-----------------------------------------------------------------------------
+Recurso requisitado por VM: 0.02
+Quantidade de máquinas físicas: 10
+Capacidade de CPU: 0.55
+
+Capacidade de memória: 0.55
+
+Algoritmo executado: Best Fit
+
+Fragmentação de CPU: 2.4420502
+
+Fragmentação de memória: 2.4420502
+
+Quantidade de requisições 2461
+
+Quantidade de VMs alocadas: 30
+
+Quantidade de VMs rejeitadas: 2431
+
+-----------------------------------------------------------------------------
+Recurso requisitado por VM: 0.02
+Quantidade de máquinas físicas: 10
+Capacidade de CPU: 1.0
+
+Capacidade de memória: 1.0
+
+Algoritmo executado: Best Fit
+
+Fragmentação de CPU: 4.0661497
+
+Fragmentação de memória: 4.0661497
+
+Quantidade de requisições 2461
+
+Quantidade de VMs alocadas: 56
+
+Quantidade de VMs rejeitadas: 2405
+
+-----------------------------------------------------------------------------
+Recurso requisitado por VM: 0.1
+Quantidade de máquinas físicas: 10
+Capacidade de CPU: 0.2
+
+Capacidade de memória: 0.2
+
+Algoritmo executado: Best Fit
+
+Fragmentação de CPU: 0.92626
+
+Fragmentação de memória: 0.92626
+
+Quantidade de requisições 2461
+
+Quantidade de VMs alocadas: 10
+
+Quantidade de VMs rejeitadas: 2451
+
+-----------------------------------------------------------------------------
+Recurso requisitado por VM: 0.1
+Quantidade de máquinas físicas: 10
+Capacidade de CPU: 0.55
+
+Capacidade de memória: 0.55
+
+Algoritmo executado: Best Fit
+
+Fragmentação de CPU: 2.4420502
+
+Fragmentação de memória: 2.4420502
+
+Quantidade de requisições 2461
+
+Quantidade de VMs alocadas: 30
+
+Quantidade de VMs rejeitadas: 2431
+
+-----------------------------------------------------------------------------
+Recurso requisitado por VM: 0.1
+Quantidade de máquinas físicas: 10
+Capacidade de CPU: 1.0
+
+Capacidade de memória: 1.0
+
+Algoritmo executado: Best Fit
+
+Fragmentação de CPU: 4.0661497
+
+Fragmentação de memória: 4.0661497
+
+Quantidade de requisições 2461
+
+Quantidade de VMs alocadas: 56
+
+Quantidade de VMs rejeitadas: 2405
+
+-----------------------------------------------------------------------------
+Recurso requisitado por VM: 0.4
+Quantidade de máquinas físicas: 10
+Capacidade de CPU: 0.2
+
+Capacidade de memória: 0.2
+
+Algoritmo executado: Best Fit
+
+Fragmentação de CPU: 0.92626
+
+Fragmentação de memória: 0.92626
+
+Quantidade de requisições 2461
+
+Quantidade de VMs alocadas: 10
+
+Quantidade de VMs rejeitadas: 2451
+
+-----------------------------------------------------------------------------
+Recurso requisitado por VM: 0.4
+Quantidade de máquinas físicas: 10
+Capacidade de CPU: 0.55
+
+Capacidade de memória: 0.55
+
+Algoritmo executado: Best Fit
+
+Fragmentação de CPU: 2.4420502
+
+Fragmentação de memória: 2.4420502
+
+Quantidade de requisições 2461
+
+Quantidade de VMs alocadas: 30
+
+Quantidade de VMs rejeitadas: 2431
+
+-----------------------------------------------------------------------------
+Recurso requisitado por VM: 0.4
+Quantidade de máquinas físicas: 10
+Capacidade de CPU: 1.0
+
+Capacidade de memória: 1.0
+
+Algoritmo executado: Best Fit
+
+Fragmentação de CPU: 4.0661497
+
+Fragmentação de memória: 4.0661497
+
+Quantidade de requisições 2461
+
+Quantidade de VMs alocadas: 56
+
+Quantidade de VMs rejeitadas: 2405
+
+-----------------------------------------------------------------------------
